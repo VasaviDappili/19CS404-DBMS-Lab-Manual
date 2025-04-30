@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## Name:Vedagiri Indu Sree
-## Reg.no:212223230236
+## Name:DAPPILI VASAVI
+## Reg.no:212223040030
 ## AIM
 To study and implement subqueries and views.
 
